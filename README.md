@@ -67,7 +67,7 @@ In addition to the training and validation sets, a 23-second test video (approxi
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Dalageo/PaperClipInspection.git
+   git clone https://github.com/Dalageo/paperclip-inspection.git
 
 2. **Navigate to the cloned directory**:
    ```sh
