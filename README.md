@@ -91,7 +91,7 @@ Special thanks to [Ultralytics](https://github.com/ultralytics/ultralytics) for 
     <img src="https://github.com/user-attachments/assets/872182a7-96db-46c2-ad4d-a2ef108e2e51" alt="Ultralytics" width="200"/></a>
   <a href="https://www.cvat.ai/">
     <img src="https://github.com/user-attachments/assets/9a447784-e8eb-4e01-a3c5-c081db4d0693" alt="CVAT" width="150"/></a>
-</div>
+</div> 
 
 ## License
 The provided fine-tuned model, along with the dataset, notebook, and accompanying documentation, are licensed under the [AGPL-3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html). This license was chosen to promote open collaboration, ensure transparency, and allow others to freely use, modify, and contribute to the work, while maintaining consistency, as the provided pretrained YOLOv11 model is also licensed under AGPL-3.0. For more information on the licensing and access to YOLOv11 models, please visit the [YOLOv11 repository](https://github.com/ultralytics/ultralytics).
